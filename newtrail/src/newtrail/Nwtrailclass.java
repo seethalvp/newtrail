@@ -7,6 +7,7 @@ public class Nwtrailclass {
 
 		System.out.println("hello");
 		System.out.println("helloddd");
+		System.out.println("hellobsjfh");
 	}
 
 }
